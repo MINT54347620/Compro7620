@@ -1,46 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
-    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/HelloWorld.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/DynamicInit.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/MaximumValue.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/AssignmentOperators.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/AA.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/ArrayDeclaration.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/ArrayPrinter.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/IntegerLiteral.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/LongintegerLiteral.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/FloatLiteral.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/FloatDouble.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/BooleanLiteral.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/CharacterLiteral.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/UnicodeString.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Dynamiclnit.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/IntegerConstant.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/IntegerRate.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/RealConstant.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/RealRange.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/IntegerOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/FloatPerator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/ArthmeticAssignmentOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/IncDecOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/BooleanBitwiseOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/AssignmentBitwiseOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/RelationalOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/BooleanLogicalOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/ShortCirtuicLogicalOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/ConditionOperator.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Precedence.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Associativity.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Casting.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/CastingPosition.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Widening.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Narrowing.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Volume1.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Volume2.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Volume3.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/VendingMachine.java</file>
-        <file>file:/C:/Users/it%20corner/Documents/GitHub/Compro7620/src/th/ac/nu/student/u54347620/compro/ch01/Initials.java</file>
-    </open-files>
 </project-private>
